@@ -1,0 +1,5 @@
+{
+    "require": {
+        "scheb/yahoo-finance-api": "^1.4"
+    }
+}

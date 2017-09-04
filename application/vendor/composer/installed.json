@@ -1,0 +1,47 @@
+[
+    {
+        "name": "scheb/yahoo-finance-api",
+        "version": "v1.4.0",
+        "version_normalized": "1.4.0.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/scheb/yahoo-finance-api.git",
+            "reference": "de2d5aa15f06912c75d63d997af03306c5efb6d6"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/scheb/yahoo-finance-api/zipball/de2d5aa15f06912c75d63d997af03306c5efb6d6",
+            "reference": "de2d5aa15f06912c75d63d997af03306c5efb6d6",
+            "shasum": ""
+        },
+        "require": {
+            "php": ">=5.3.0"
+        },
+        "time": "2017-03-15T19:13:09+00:00",
+        "type": "library",
+        "installation-source": "dist",
+        "autoload": {
+            "psr-4": {
+                "Scheb\\YahooFinanceApi\\": ""
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "Christian Scheb",
+                "email": "me@christianscheb.de"
+            }
+        ],
+        "description": "PHP library for accessing Yahoo Finance data",
+        "homepage": "https://github.com/scheb/yahoo-finance-api",
+        "keywords": [
+            "api",
+            "finance",
+            "stock",
+            "yahoo"
+        ]
+    }
+]
