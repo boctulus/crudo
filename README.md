@@ -1,4 +1,4 @@
-RAD for CodeIgniter
+*RAD for CodeIgniter*
 
 Objetivo: crear aplicaciones rápidamente mediante un generador de código MVC para el framework de PHP CodeIgniter 3.x
 
