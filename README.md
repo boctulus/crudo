@@ -1,9 +1,9 @@
-*RAD for CodeIgniter*
+**RAD for CodeIgniter**
 
 Objetivo: crear aplicaciones rápidamente mediante un generador de código MVC para el framework de PHP CodeIgniter 3.x
 
 
-Cómo comenzar?
+*Cómo comenzar?*
 
 
 La idea es partir de la base de datos la cual pudo ser disenada de forma visual -mediante MySQL Workbench por ejemplo- para generar la los modelos y los controladores correspondientes. Tener la DB disenada es un pre-requisito.
